@@ -44,5 +44,3 @@ vless://7256b602-e1fb-422a-a839-ce942f84ceb7@fnv.dgclix.ir:443?encryption=none&s
 vless://7256b602-e1fb-422a-a839-ce942f84ceb7@apt.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D9%BE%D8%AA%D9%84%29
 #دیده‌بان‌نت
 vless://7256b602-e1fb-422a-a839-ce942f84ceb7@dbn.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%AF%DB%8C%D8%AF%D9%87%E2%80%8C%D8%A8%D8%A7%D9%86%E2%80%8C%D9%86%D8%AA%29
-#غیره
-vless://7256b602-e1fb-422a-a839-ce942f84ceb7@rnd.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%BA%DB%8C%D8%B1%D9%87%29
