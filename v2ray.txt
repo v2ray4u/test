@@ -1,48 +1,48 @@
 #همراه‌اول - عادی
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mci.dgclix.ir:443?encryption=none&security=tls&sni=bc43e45fa8.dgclix.ir&alpn=http%2F1.1&type=ws&host=075aa18501.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mci.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
 #همراه‌اول - چندگانه
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mcix.dgclix.ir:443?encryption=none&security=tls&sni=9fa6f57b52.dgclix.ir&alpn=http%2F1.1&type=ws&host=7c0a4015c6.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mcix.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
 #همراه‌اول - خزنده
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mcin.dgclix.ir:443?encryption=none&security=tls&sni=7db690c790.dgclix.ir&alpn=http%2F1.1&type=ws&host=7fc68ab574.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%D8%AE%D8%B2%D9%86%D8%AF%D9%87%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mcin.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20-%20%D8%AE%D8%B2%D9%86%D8%AF%D9%87%29
 #ایرانسل - عادی
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mtn.dgclix.ir:443?encryption=none&security=tls&sni=310723d2d2.dgclix.ir&alpn=http%2F1.1&type=ws&host=cde33ee301.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mtn.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
 #ایرانسل - چندگانه
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mtnx.dgclix.ir:443?encryption=none&security=tls&sni=afdc2571a0.dgclix.ir&alpn=http%2F1.1&type=ws&host=5a0f8d0ee1.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mtnx.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
 #رایتل
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rtl.dgclix.ir:443?encryption=none&security=tls&sni=b966bf8612.dgclix.ir&alpn=http%2F1.1&type=ws&host=caf3a60228.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rtl.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B1%D8%A7%DB%8C%D8%AA%D9%84%29
 #مخابرات - عادی
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mkh.dgclix.ir:443?encryption=none&security=tls&sni=ad44c5aaff.dgclix.ir&alpn=http%2F1.1&type=ws&host=8ae096f5c5.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mkh.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20-%20%D8%B9%D8%A7%D8%AF%DB%8C%29
 #مخابرات - چندگانه
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mkhx.dgclix.ir:443?encryption=none&security=tls&sni=4692b3e79a.dgclix.ir&alpn=http%2F1.1&type=ws&host=8500f5c773.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mkhx.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%20-%20%DA%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86%D9%87%29
 #های‌وب
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@hwb.dgclix.ir:443?encryption=none&security=tls&sni=a3fc6d02a2.dgclix.ir&alpn=http%2F1.1&type=ws&host=a4c9c14416.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D8%A7%DB%8C%E2%80%8C%D9%88%D8%A8%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@hwb.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%87%D8%A7%DB%8C%E2%80%8C%D9%88%D8%A8%29
 #آسیاتک
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ast.dgclix.ir:443?encryption=none&security=tls&sni=90809e22bd.dgclix.ir&alpn=http%2F1.1&type=ws&host=0b91ca03cc.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D8%B3%DB%8C%D8%A7%D8%AA%DA%A9%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ast.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D8%B3%DB%8C%D8%A7%D8%AA%DA%A9%29
 #شاتل
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@sht.dgclix.ir:443?encryption=none&security=tls&sni=661b17c6a6.dgclix.ir&alpn=http%2F1.1&type=ws&host=a2cec5fc7a.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B4%D8%A7%D8%AA%D9%84%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@sht.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B4%D8%A7%D8%AA%D9%84%29
 #پارس‌آنلاین
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@prs.dgclix.ir:443?encryption=none&security=tls&sni=5e31d6fb9e.dgclix.ir&alpn=http%2F1.1&type=ws&host=91ae29ed55.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%BE%D8%A7%D8%B1%D8%B3%E2%80%8C%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@prs.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%BE%D8%A7%D8%B1%D8%B3%E2%80%8C%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86%29
 #مبین‌نت
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mbt.dgclix.ir:443?encryption=none&security=tls&sni=7338f33209.dgclix.ir&alpn=http%2F1.1&type=ws&host=a819cb037e.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%A8%DB%8C%D9%86%E2%80%8C%D9%86%D8%AA%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@mbt.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%85%D8%A8%DB%8C%D9%86%E2%80%8C%D9%86%D8%AA%29
 #اندیشه‌سبز
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ask.dgclix.ir:443?encryption=none&security=tls&sni=103f240543.dgclix.ir&alpn=http%2F1.1&type=ws&host=f0a4732724.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87%E2%80%8C%D8%B3%D8%A8%D8%B2%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ask.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87%E2%80%8C%D8%B3%D8%A8%D8%B2%29
 #رسپینا
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rsp.dgclix.ir:443?encryption=none&security=tls&sni=ce3b77ab9a.dgclix.ir&alpn=http%2F1.1&type=ws&host=fca74cc6bc.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B1%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rsp.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B1%D8%B3%D9%BE%DB%8C%D9%86%D8%A7%29
 #افرانت
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@afn.dgclix.ir:443?encryption=none&security=tls&sni=6867927499.dgclix.ir&alpn=http%2F1.1&type=ws&host=f8b3372abf.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%D9%81%D8%B1%D8%A7%D9%86%D8%AA%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@afn.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A7%D9%81%D8%B1%D8%A7%D9%86%D8%AA%29
 #زی‌تل
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ztl.dgclix.ir:443?encryption=none&security=tls&sni=95d501156d.dgclix.ir&alpn=http%2F1.1&type=ws&host=e7e534d8a2.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B2%DB%8C%E2%80%8C%D8%AA%D9%84%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@ztl.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B2%DB%8C%E2%80%8C%D8%AA%D9%84%29
 #پیشگامان
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@psm.dgclix.ir:443?encryption=none&security=tls&sni=409c749679.dgclix.ir&alpn=http%2F1.1&type=ws&host=5acf39bef8.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85%D8%A7%D9%86%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@psm.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%BE%DB%8C%D8%B4%DA%AF%D8%A7%D9%85%D8%A7%D9%86%29
 #آراکس
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@arx.dgclix.ir:443?encryption=none&security=tls&sni=1d6fa556dd.dgclix.ir&alpn=http%2F1.1&type=ws&host=6209b61559.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D8%B1%D8%A7%DA%A9%D8%B3%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@arx.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D8%B1%D8%A7%DA%A9%D8%B3%29
 #سامانتل
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@smt.dgclix.ir:443?encryption=none&security=tls&sni=07ce0009a5.dgclix.ir&alpn=http%2F1.1&type=ws&host=d4b69ac69b.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AA%D9%84%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@smt.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D8%AA%D9%84%29
 #فن‌آوا
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@fnv.dgclix.ir:443?encryption=none&security=tls&sni=08a4a7d5e9.dgclix.ir&alpn=http%2F1.1&type=ws&host=e5010a92a2.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%81%D9%86%E2%80%8C%D8%A2%D9%88%D8%A7%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@fnv.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D9%81%D9%86%E2%80%8C%D8%A2%D9%88%D8%A7%29
 #آپتل
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@apt.dgclix.ir:443?encryption=none&security=tls&sni=25bd783fab.dgclix.ir&alpn=http%2F1.1&type=ws&host=a75ff57127.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D9%BE%D8%AA%D9%84%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@apt.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%A2%D9%BE%D8%AA%D9%84%29
 #دیده‌بان‌نت
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@dbn.dgclix.ir:443?encryption=none&security=tls&sni=8eee70ccaf.dgclix.ir&alpn=http%2F1.1&type=ws&host=fc3ffd0ea2.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%AF%DB%8C%D8%AF%D9%87%E2%80%8C%D8%A8%D8%A7%D9%86%E2%80%8C%D9%86%D8%AA%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@dbn.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%AF%DB%8C%D8%AF%D9%87%E2%80%8C%D8%A8%D8%A7%D9%86%E2%80%8C%D9%86%D8%AA%29
 #غیره
-vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rnd.dgclix.ir:443?encryption=none&security=tls&sni=da5c5f7718.dgclix.ir&alpn=http%2F1.1&type=ws&host=29924b3567.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%BA%DB%8C%D8%B1%D9%87%29
+vless://c2fa0ee0-c80c-4794-f569-fafdeff2c895@rnd.dgclix.ir:443?encryption=none&security=tls&sni=api-0122.dgclix.ir&alpn=http%2F1.1&type=ws&host=api-0122.dgclix.ir&path=%2Fapi#%40custom_config%20%28%D8%BA%DB%8C%D8%B1%D9%87%29
